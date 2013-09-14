@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Learning | Interpreted Ideas]]></title>
+  <link href="http://mpolichette.github.io/blog/categories/learning/atom.xml" rel="self"/>
+  <link href="http://mpolichette.github.io/"/>
+  <updated>2013-09-13T23:27:18-06:00</updated>
+  <id>http://mpolichette.github.io/</id>
+  <author>
+    <name><![CDATA[Matt Polichette]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Initial Commit.]]></title>
+    <link href="http://mpolichette.github.io/blog/2013/09/13/initial-commit/"/>
+    <updated>2013-09-13T22:54:00-06:00</updated>
+    <id>http://mpolichette.github.io/blog/2013/09/13/initial-commit</id>
+    <content type="html"><![CDATA[<h1>This is my first post</h1>
+
+<p>I switched from wordpress to here.  If I can, I will probably move the posts over, but for now, this is how things go.</p>
+
+<p>I don&rsquo;t really know a lot of markdown syntax, which is how I will be writing from now on, but&hellip; you gotta start somewhere!</p>
+
+<p>Well, thats all I have for the Initial commit, ta ta for now!</p>
+]]></content>
+  </entry>
+  
+</feed>
