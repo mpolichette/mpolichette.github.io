@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Octopress | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Octopress | Interpreted Ideas]]></title>
   <link href="http://mpolichette.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://mpolichette.github.io/"/>
-  <updated>2013-09-13T23:23:05-06:00</updated>
+  <updated>2013-09-13T23:26:53-06:00</updated>
   <id>http://mpolichette.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Matt Polichette]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
